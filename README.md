@@ -1,5 +1,3 @@
-# authentication-node-js
-
 # Authentication Node Js API
 
 This repository contains a Node.js API project built using [Express](https://expressjs.com/) framework.
