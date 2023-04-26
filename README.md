@@ -18,8 +18,8 @@ The project structure is as follows:
 
 ```
 ├── src/
-|   |-- app.ts
-|   |-- middleware
+|    |-- app.ts
+|    |-- middleware
 |    |   |-- authenticated.middleware.ts
 |    |   |-- error.middleware.ts
 |    |   |-- validation.middleware.ts
